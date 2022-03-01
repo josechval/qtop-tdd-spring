@@ -29,5 +29,3 @@
 # Ignore Gradle build output directory
 build
 
-demo/
-demo-rest/
